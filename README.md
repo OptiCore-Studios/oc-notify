@@ -1,7 +1,5 @@
 # oc-notify
 
-https://r2.fivemanage.com/NCLyNKOU2YmGmHOBVhXpU/Screenshot2025-04-28234609.png
-
 ![https://r2.fivemanage.com/NCLyNKOU2YmGmHOBVhXpU/Screenshot2025-04-28234609.png](https://r2.fivemanage.com/NCLyNKOU2YmGmHOBVhXpU/Screenshot2025-04-28234609.png)
 
 # Installation:
